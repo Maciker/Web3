@@ -3,4 +3,4 @@ Proyectos Web3
 
 ## [Alchemy university](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity)
 
-#### [Etherum Bootcamp](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp)
+#### [Ethereum Bootcamp](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp)
