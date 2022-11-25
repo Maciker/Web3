@@ -9,3 +9,5 @@
   Firmar el mensaje. [signmessage](https://github.com/Maciker/Web3/blob/main/AlchemyUniversity/EthereumBootcamp/Week1/signMessage.js)
    
   Recuperar a clave pública del mensaje. [recoverKey](https://github.com/Maciker/Web3/blob/main/AlchemyUniversity/EthereumBootcamp/Week1/recoverKey.js)
+  
+  Recuperar la dirección Ethereum de la clave pública. [getAdress](https://github.com/Maciker/Web3/blob/main/AlchemyUniversity/EthereumBootcamp/Week1/getAdress.js)
