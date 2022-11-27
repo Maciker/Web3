@@ -13,3 +13,5 @@
   Recuperar la dirección Ethereum de la clave pública. [getAdress](https://github.com/Maciker/Web3/blob/main/AlchemyUniversity/EthereumBootcamp/Week1/getAdress.js)
   
   Generación de un minero con consenso PoW. [miner](https://github.com/Maciker/Web3/blob/main/AlchemyUniversity/EthereumBootcamp/Week1/miner.js)
+  
+  Generación de una blockchian. ¡Encadenando bloques![Blockchain Structure](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week1/BlockchainStructure)
