@@ -14,6 +14,6 @@
   
   Generación de un minero con consenso PoW. [miner](https://github.com/Maciker/Web3/blob/main/AlchemyUniversity/EthereumBootcamp/Week1/miner.js)
   
-  Generación de una blockchian. ¡Encadenando bloques! [Blockchain Structure](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week1/BlockchainStructure)
+  Generación de una blockchain. ¡Encadenando bloques! [Blockchain Structure](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week1/BlockchainStructure)
   
   [Proyecto Semana Uno](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week1/Project)
