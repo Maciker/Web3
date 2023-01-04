@@ -17,3 +17,9 @@
   Generación de una blockchain. ¡Encadenando bloques! [Blockchain Structure](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week1/BlockchainStructure)
   
   [Proyecto Semana Uno](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week1/Project)
+  
+  ### [Week2](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week2)
+  
+  Unspent Transactions Outputs [UTXO](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week2/UTXO)
+  
+  Binary Trees [Trees](https://github.com/Maciker/Web3/tree/main/AlchemyUniversity/EthereumBootcamp/Week2/Trees)
